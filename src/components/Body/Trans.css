@@ -1,0 +1,49 @@
+.trans{
+
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+border-radius: 24px;
+}
+
+
+.trans_p1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2em;
+    font-size: 25px;
+}
+
+.transhr{
+    border: 1px solid white;
+    width: 3em;
+}
+
+.mask{
+    width: 10em;
+}
+
+.mask2{
+    color: white;
+    margin-top: 3em;
+   
+
+}
+
+
+.transcol_2{
+    margin-top:4em;
+    color: white;
+    margin-left: -1em;
+    font-weight: bold;
+}
+
+.edw{
+    color: white;
+    margin-bottom: -0px;
+}
+.mas{
+    padding-bottom: 3em;
+}

@@ -1,0 +1,45 @@
+.foot{
+   padding-left: 6em;
+    padding-right: 6em;
+    padding-top: 5em;
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    font-weight: 300;
+font-size: 16px;
+    color: white;
+}
+
+
+
+.foot-p1{
+    line-height: 28px;
+}
+
+.footcap-p1{
+font-weight: bolder;
+
+font-size: 30px;
+
+}
+
+.footcap2{
+    font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 60px;
+margin-top: -7px;
+margin-bottom: 8px;
+}
+
+.qqq{
+    color: yellow;
+    background-color: violet;
+}
+
+.footp2{
+    font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+
+margin-bottom: 0px;
+margin-top: -7px;
+}

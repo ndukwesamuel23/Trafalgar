@@ -1,0 +1,44 @@
+.mobile{
+    padding-top: 5em;
+}
+
+.mobile_hr{
+border: 1px solid black;
+width: 2em;
+margin-right: 35em;
+}
+
+.mob_sec{
+    margin-right: 100px;
+    margin-left: 100px;
+
+    color: #7D7987;
+    margin-top: 2em;
+}
+
+
+.mob1{
+    color: #000000;
+
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+}
+
+
+.mob2{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;  
+}
+
+.mob_btn_2{
+    width: 10em;
+    background:transparent;
+    margin-left: 6em;
+    height: 3em;
+    outline: none;
+    border:1px solid #7FB2F9 ;
+}

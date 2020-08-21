@@ -1,0 +1,56 @@
+.hec_btn_1{
+    width: 13em;
+    background:transparent;
+    margin-left: 30em;
+    height: 3em;
+    outline: none;
+    border:1px solid #7FB2F9 ;
+}
+
+.health{
+    padding-top: 3em;
+}
+
+
+.health_p1{
+font-family: Muli;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 56px;
+text-align: justify;
+text-justify: inter-word;
+
+margin-left: 50px;
+margin-right: 50px;
+}
+
+
+.health_p2{
+font-family: Muli;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 30px;
+margin-left: 50px;
+margin-right: 50px;
+text-align: justify;
+text-justify: inter-word;
+}
+
+.health_sec2{
+    margin-top: 3em;
+
+}
+
+.hec_btn_2{
+    width: 10em;
+    background:transparent;
+    margin-top: 1em;
+    margin-left: 3em;
+    height: 3em;
+    outline: none;
+    border:1px solid #7FB2F9 ;
+}
+
+
